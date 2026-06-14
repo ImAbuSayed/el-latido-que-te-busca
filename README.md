@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-latido-que-te-busca/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for El latido que te busca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-latido-que-te-busca/) |
+| **Get License** | [Get a Licensing Quote for El latido que te busca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-latido-que-te-busca/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, tú sabes que la noche nos llama
+> Tengo el motor encendido, apaga el drama
+> Ese piquete te queda de alta gama
+> Ven, que la disco se enciende y me enciendes en llamas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
