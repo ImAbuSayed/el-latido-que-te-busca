@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El latido que te busca
+
+This log tracks the cryptographic history and versioning for the song **El latido que te busca** (el-latido-que-te-busca).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:15:39.903389 | `v1` | `360868423d5b9a58ad5dad4e66b77cfec3f27d42d0eab34e75e9d195d989cb6b` | `111046e28cc3b89dda0762c52b175d03f446a8f8c569b221d0254be8f7e5039b` | `2026-06-14_el-latido-que-te-busca-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
